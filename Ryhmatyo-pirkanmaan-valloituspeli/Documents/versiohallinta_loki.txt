@@ -1,0 +1,646 @@
+commit 623c8d14b2afeb9298c536797443f460f709b2cb
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Sat Nov 30 19:00:03 2019 +0200
+
+    Määrätty yksikkötestit käyttämään c++14 versiota
+
+commit 6801b18906c4d1df8cdb8045ba2727b32a8a84e6
+Author: Henrik Hameenoja <hameenoj@linux-desktop5.cc.tut.fi>
+Date:   Sat Nov 30 13:12:06 2019 +0200
+
+    Päivitetty Winning Widgettiä ja muutettu final scoren laskentaa
+
+commit eb73eedc035bec9d35216826ab183b57d7ef4eeb
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Fri Nov 29 21:31:21 2019 +0200
+
+    Voitto sulkee nyt kaikki toiminnalliset napit ja koodia refactoroitu
+
+commit c590f109fc12101270f06abda88a7325c13d4a25
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Thu Nov 28 23:44:50 2019 +0200
+
+    Luotu highscore-toiminto loppuun
+
+commit 46ffae0eff6d1f435c6cee47d66e644322e18bfa
+Merge: 2e3a615 d6ebb92
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Thu Nov 28 20:19:21 2019 +0200
+
+    Merge korjattu
+
+commit 2e3a61519805f8fd2bbfce7d6df2c23941008884
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Thu Nov 28 20:17:29 2019 +0200
+
+    Aloitettu Highscore toiminnon toteuttaminen!
+
+commit d6ebb920f1302409e23429da4b90a08f29637735
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Thu Nov 28 18:54:22 2019 +0200
+
+    Dialogstoryn fixaus ja mapwindowin windowtitlen muuttaminen
+
+commit ae8ad4219671b5011382d1e6701b04fae533adb8
+Author: Henrik Hameenoja <hameenoj@linux-desktop1.cc.tut.fi>
+Date:   Thu Nov 28 16:53:50 2019 +0200
+
+    Paranneltu alku dialogistory ja päivitetty MainWindowin ulkoasua
+
+commit 9c021e449461ce3d9e27b877448d9663d0d1d25c
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Thu Nov 28 15:24:28 2019 +0200
+
+    Kommentoitu gameengine luokka ja luotu uusi alkutarina
+
+commit 2cadda7cfc436cd15e264a5168f5c6d06adeff67
+Merge: 6d80616 1ee5be5
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Thu Nov 28 10:43:23 2019 +0200
+
+    Merge hoidettu
+
+commit 6d80616316f128f7d8e09401809a09f010c8af5d
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Thu Nov 28 10:40:31 2019 +0200
+
+    Kommentointia toteutettu dialogeihin ja yksikkötesteihin
+
+commit 1ee5be504adcf89c036fbdbb7d7ca29bc8ddeb71
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Thu Nov 28 10:39:05 2019 +0200
+
+    Lisätty objectmanagerin ja eventhandlerin kommentointi
+
+commit 64af8a72ce1d4fbcd96f4d174dbdfb8c04ed38ec
+Merge: 7df8720 05ebd9a
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 18:20:13 2019 +0200
+
+    :wq
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/henkka-ja-saku
+
+commit 7df872069f94b10824e3f9cde3edcef17324501e
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 18:18:09 2019 +0200
+
+    korjattu merge
+
+commit df6ae68bf77a568f03e1c022ad62d210dc351990
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 18:14:42 2019 +0200
+
+    Merge hoidettu
+
+commit bcf869f64df1c92f487419cfa192f2d6d0e89301
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 18:11:54 2019 +0200
+
+    Kommentoitu vähän koodia ja korjattu outpostin remove toimintoo ja korjattu henkilöiden liikkumisen bugi
+
+commit 05ebd9a300416b6cf296c0cdaccc5660a77b8068
+Author: Henrik Hameenoja <hameenoj@linux-desktop1.cc.tut.fi>
+Date:   Wed Nov 27 17:49:54 2019 +0200
+
+    Kommentointi tileille, workereille ja rakenuksille
+
+commit 43a8e16f9cdd842fb147094e80719da1c2bf0f4c
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Wed Nov 27 16:29:39 2019 +0200
+
+    modify-resource-funktion korjaaminen, ja satisfaction-toiminnon avaaminen workereille.
+
+commit 59acb666bca5086000039090971fdc5582950dc9
+Author: Saku Laitinen <laitin34@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 15:26:41 2019 +0200
+
+    Yhdistetty nappi infodialogiin ja korjattu liikkumis bugi
+
+commit 4f0a9b2cd9cefbf046e1cb2500e96f923d707319
+Merge: 61c2604 4e1ca43
+Author: Saku Laitinen <laitin34@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 15:15:51 2019 +0200
+
+    Merge hoidettu
+
+commit 61c260443c96ca203a76a79ce3f5949c48f9d7d3
+Author: Saku Laitinen <laitin34@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 15:12:08 2019 +0200
+
+    Luotu tarinan näyttämis dialogi
+
+commit 4e1ca4391ec20b0f24a19baee7fc41a785bbb87d
+Merge: 2c6075f 454eff4
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 14:16:48 2019 +0200
+
+    Merge korjattu
+
+commit 2c6075f25a5ee918e40ad5cc64bf28f82b81cdc6
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 14:14:12 2019 +0200
+
+    Luotu värikooditaulu ja äivitetty värien piirto objekteille
+
+commit 454eff4202caa152c5ce4eb098b1cbbb98e99add
+Author: Saku Laitinen <laitin34@linux-desktop5.cc.tut.fi>
+Date:   Wed Nov 27 13:26:18 2019 +0200
+
+    Luotu infodialogi pelin rakennusten, ihmisten ja tilejen resurssien käytölle
+
+commit cc0f13129e079ce4cd1a1996356b5fea4575f562
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 12:37:35 2019 +0200
+
+    Muokattu tiledialogiin lisää informaatiota sekä korjattu testi
+
+commit 618d223951cd3b3fa6704d9ac821737810543834
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 11:53:06 2019 +0200
+
+    Resurssien balansointi ja move-toiminnon korjaaminen
+
+commit 01644113d6b8add1297695a625996a68853d7672
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 11:19:17 2019 +0200
+
+    Päivitys resurssien saamiseen tileiltä
+
+commit 1a360da0a28894723a5e84d07c7b29522ee3a159
+Merge: 849f32f cb0cc88
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 11:08:33 2019 +0200
+
+    Merge korjattu
+
+commit 849f32f6e2f761f5750b133a04f2b1e85c9400de
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 11:06:49 2019 +0200
+
+    Merge korjaus
+
+commit cb0cc882ff42c43a073e38ac46c75504c0a48135
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 10:56:39 2019 +0200
+
+    Muokattu dialogia ja korjattu bugi rakentamisessa
+
+commit 68976b08bc9cadadc67dc7b250d6597fc99d2e75
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 10:54:46 2019 +0200
+
+    Mapwindowin ui-päivitettty
+
+commit 59c6c480477a370a50fa34f566005f0909115e17
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 10:30:43 2019 +0200
+
+    Uusien hahmojen liikkumiset dialogiin hoidettu
+
+commit 920e62460ca5677d19a0686a741a9f5cf3d31209
+Merge: 713fcd0 9320621
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 10:23:37 2019 +0200
+
+    Korjattu addMiner ja addLumberjack-funktiot, sekä korjattu merge
+
+commit 713fcd0e4690164d40308b0c894e136a0f882ffe
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 27 10:05:18 2019 +0200
+
+    Lisätty addMiner ja addLumberjackButtonit
+
+commit 9320621fb1c784a2e5c550a92299b8f323a6f817
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Wed Nov 27 10:02:03 2019 +0200
+
+    Korjattu testejä
+
+commit 51292177893125ca715441ad85baf198974be7e1
+Author: Saku Laitinen <laitin34@linux-desktop2.cc.tut.fi>
+Date:   Tue Nov 26 18:09:55 2019 +0200
+
+    Luotu liikkumis toiminnot uusille hahmoille
+
+commit c45b385fcb8f5b81e3f3eff324ad8e697b450188
+Merge: 1220a03 f74b310
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Tue Nov 26 17:22:21 2019 +0200
+
+    Merge korjattu
+
+commit 1220a03bead35bd39b30518389209e157152907f
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Tue Nov 26 17:19:32 2019 +0200
+
+    Merge korjattu
+
+commit f74b3107a7a4db5c666674cd0f6121b03921e0a2
+Author: Saku Laitinen <laitin34@linux-desktop2.cc.tut.fi>
+Date:   Tue Nov 26 17:13:58 2019 +0200
+
+    Bugien korjausta
+
+commit b23aa0de5e8f64bdd96e0c1d95f4a764cded8190
+Author: Henrik Hameenoja <hameenoj@linux-desktop5.cc.tut.fi>
+Date:   Tue Nov 26 16:47:06 2019 +0200
+
+    Luotu napit minerille ja lumberjackille, sekä korjattu assignCitizen-funktio
+
+commit fdeb33d792d45e291538345d9dd5c06935accbc9
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Tue Nov 26 14:23:03 2019 +0200
+
+    Tehty lisää yksikkötestejä
+
+commit 72fd3c161349d6ecd1d829c7037fddefcfa6bc59
+Merge: 5771883 357c3dc
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Mon Nov 25 18:42:00 2019 +0200
+
+    Merge hoidettu
+
+commit 5771883a07baa1e9b20792598a61d5039e1a363f
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Mon Nov 25 18:33:44 2019 +0200
+
+    Lisätty Lumberjack ja Miner workerien määritykset
+
+commit 3567a8cf00903942f7ecb57b5a1df5e5ecf228e3
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Mon Nov 25 18:33:20 2019 +0200
+
+    Lisätty Lumberjack ja Miner workerien määritykset
+
+commit 357c3dcaa78ead89b3848cb2651462ecbaee307e
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Mon Nov 25 18:01:40 2019 +0200
+
+    Tehty ensimmäinen testi gameenginelle
+
+commit c5ea5da5f2211cff832c705aa4ce04e44fe944aa
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Mon Nov 25 17:24:58 2019 +0200
+
+    Luotu alustukset yksikkö testeille
+
+commit cb39c5d242986e8e6050aaacaadfffaa40d2239f
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Mon Nov 25 16:33:34 2019 +0200
+
+    Lisätty pankin ja sahan toteutukset
+
+commit dfe933f7848d4c1fea6059a29511098a0e49121b
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Mon Nov 25 15:58:47 2019 +0200
+
+    Refaktoroitu tiedostojen include-osioita, sekä luotu kolme uniikkija maalaattaa ja kaksi uniikkia rakennusta
+
+commit 66373289969c658e007bbc5bbcf2b92c1a6f48a7
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Mon Nov 25 12:37:33 2019 +0200
+
+    Koodin refaktorointia
+
+commit fdf80821d447cf80d265b7297df29a4c76126212
+Author: Saku Laitinen <laitin34@linux-desktop2.cc.tut.fi>
+Date:   Sun Nov 24 16:07:31 2019 +0200
+
+    Muokattu maalaattojen värjäystä realistisemmaksi
+
+commit 745cc0d765d119ff34e5dd779a3307179f437c8b
+Author: Saku Laitinen <laitin34@linux-desktop2.cc.tut.fi>
+Date:   Sun Nov 24 14:31:12 2019 +0200
+
+    Bugien korjausta ja pientä refactorointia
+
+commit 0d08964b4782b66cb44c5ea03b8a6728e1c22c7c
+Author: Henrik Hameenoja <hameenoj@linux-desktop6.cc.tut.fi>
+Date:   Sun Nov 24 00:10:38 2019 +0200
+
+    Paranneltu ulkoasua, sekä luotu loppuun pelin voito-toiminto, lisätty myös voittoon tarvittavien resurssien näyttäminen
+
+commit 00d7dc9e573a37deb4d9c9efe268d91d531ea78e
+Author: Henrik Hameenoja <hameenoj@linux-desktop6.cc.tut.fi>
+Date:   Sat Nov 23 22:17:19 2019 +0200
+
+    Korjattu checkWin-funktio
+
+commit f3cf5d3e0f965aaa2ba80064021cdf21bc6b82ad
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Sat Nov 23 18:45:23 2019 +0200
+
+    Toteutettu alustava voiton-tarkastava toiminto. Luotu checkWin-funktio mapwindowiin.
+
+commit 02f3b2d89c0efe8f3e756fd59fa44121f5c4bef0
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Fri Nov 22 21:05:15 2019 +0200
+
+    Korjattu bugi 4. pelaajan nimen asetamisessa
+
+commit 5c4c0480022107e92dfe32af5d9afb28a746dd0a
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Fri Nov 22 20:12:04 2019 +0200
+
+    Korjattu mergestä unohtunut kohta
+
+commit 197d0dc52c3ed2e35a79c888a57b143dac747bc5
+Merge: 8326710 f9652df
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Fri Nov 22 20:08:16 2019 +0200
+
+    merge hoidettu
+
+commit 8326710b000ad0268b44dbd1ce0059d5ad1cc43c
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Fri Nov 22 20:02:16 2019 +0200
+
+    Worker ei voi enää  liikkua rajojen ulkopuolelle
+
+commit f9652df669a2fd2a4d31db156da1b66ff2ee9bde
+Author: Henrik Hameenoja <hameenoj@linux-desktop2.cc.tut.fi>
+Date:   Fri Nov 22 19:49:19 2019 +0200
+
+    Toteutettu endturn-laskuri
+
+commit 70c6436d4a948844e9931397c14b1f79e357cb22
+Merge: b4e1d6f ad0d699
+Author: Saku Laitinen <laitin34@linux-desktop4.cc.tut.fi>
+Date:   Fri Nov 22 15:18:48 2019 +0200
+
+    merge hoidettu
+
+commit b4e1d6f25db7c9ab31c7eb7efb6e9971ce52ba13
+Author: Saku Laitinen <laitin34@linux-desktop4.cc.tut.fi>
+Date:   Fri Nov 22 15:13:37 2019 +0200
+
+    mergen takia commit
+
+commit ad0d6999a587c65fdff8a971b06cfe3ee88e7d0d
+Author: Henrik Hameenoja <hameenoj@linux-desktop2.cc.tut.fi>
+Date:   Fri Nov 22 15:04:13 2019 +0200
+
+    Luotu resurssien laskentatoiminto buildingeille: päivitetty transferDialogInformation-funtkio ja luotu PossibleBuildingVectorUpdater-funktio mapwindow.cc:hen sekä päivitetty oremineButtonClicked(), outpostButtonClicked(), farmButtonClicked() funtiot dialogtilessä.
+
+commit 3d5ee9418d1eb39fa6ce4fd9ed4bca72afede3df
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Fri Nov 22 13:32:37 2019 +0200
+
+    Paranneltu workerin liikkumista sekä paranneltu kartan päivittämistä
+
+commit 7ca5f269278ec40773b90b83691193a4e40e8ed6
+Author: Henrik Hameenoja <hameenoj@linux-desktop2.cc.tut.fi>
+Date:   Thu Nov 21 20:57:02 2019 +0200
+
+    Täydennetty AssingCitizenButtonClickedin ominaisuuksia: lisää workerin pelilaudalle. Toteuttu GameEngineen luodun addBasicWorkerin avulla.
+
+commit 18fe4ac1da2ec40444654187ff37aa95192d11af
+Merge: 716a442 d449386
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Thu Nov 21 16:34:45 2019 +0200
+
+    Hoidettu merge
+
+commit 716a4425b55b65700ef0d807e6faa844bf5d91da
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Thu Nov 21 16:31:21 2019 +0200
+
+    Tehty alustus workerin liikkumiseen
+
+commit d44938627733e890f609679f252a5ab7b05b707b
+Author: Henrik Hameenoja <hameenoj@linux-desktop11.cc.tut.fi>
+Date:   Thu Nov 21 16:22:15 2019 +0200
+
+    Luotu CheckIfEnoughResources-funktio, sekä päivitetty Workerin assign toiminto
+
+commit 3e9318b573cfb172e332baa65a1c1377e62a39e2
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Thu Nov 21 12:27:57 2019 +0200
+
+    Luotu toiminnot rakennusten rakentamiseen omalle alueelle ja niiden alkeellinen poistaminen
+
+commit b971d73dc45d48c8e4268e23907ec4554ffaeb64
+Merge: 7d16279 f11f12c
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Thu Nov 21 10:35:51 2019 +0200
+
+    merge hoidettu
+
+commit 7d16279760e1b72da71731e54ddc70d02d26b38d
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Thu Nov 21 10:26:04 2019 +0200
+
+    tehty ruudun 'päivitys' elementti
+
+commit f11f12cc7b9f7ea45e5af274d99e51ffdeb53293
+Author: Henrik Hameenoja <hameenoj@linux-desktop14.cc.tut.fi>
+Date:   Wed Nov 20 21:41:24 2019 +0200
+
+    Oman Mountain-tilen ja Oremine-buildingin toteutus
+
+commit 54336611d1b94bd5337a107133eca8a8f477261c
+Merge: b279406 f0b0318
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Wed Nov 20 16:37:35 2019 +0200
+
+    Merge hoidettu
+
+commit b279406d06dcec700056d129fe9b5a14d1653ae5
+Author: Saku Laitinen <laitin34@linux-desktop3.cc.tut.fi>
+Date:   Wed Nov 20 16:36:12 2019 +0200
+
+    Luotu outpostin luonti toiminto dialogiin ja alustava rakennusten purku funktio
+
+commit f0b0318660879532184ba5f444fe7e091168586f
+Author: Henrik Hameenoja <hameenoj@linux-desktop8.cc.tut.fi>
+Date:   Wed Nov 20 16:30:26 2019 +0200
+
+    Toteutettu Tilejen resurssien lasku luomalla updateTileProduction-funktio
+
+commit 9c93c75ccd667f5c37f6dff65a4d321604b14f05
+Author: Henrik Hameenoja <hameenoj@linux-desktop8.cc.tut.fi>
+Date:   Wed Nov 20 14:47:02 2019 +0200
+
+    Luotu ReduceResources-funktio, joka yhdistettynä AssingnCitizenButtoniin poistaa oikean määrän resursseja pelaajalta
+
+commit 28122120f4cbf4ef271ea0220dc48b0cac5f071c
+Author: Saku Laitinen <laitin34@linux-desktop11.cc.tut.fi>
+Date:   Wed Nov 20 13:00:11 2019 +0200
+
+    Korjattu mergestä aiheutuneet muutokset
+
+commit 1e37bc2d9ed8cdd5ad868190025fe980cae3cd5c
+Merge: 938476d c0d8f53
+Author: Henrik Hameenoja <hameenoj@linux-desktop14.cc.tut.fi>
+Date:   Tue Nov 19 19:23:21 2019 +0200
+
+    Merge korjattu
+
+commit 938476ddfb59244177f4492e158a6f14bf92541e
+Author: Henrik Hameenoja <hameenoj@linux-desktop14.cc.tut.fi>
+Date:   Tue Nov 19 19:03:11 2019 +0200
+
+    Luotu funktiot joilla resurssien lisämiinen pelaajalle onnistuu, funktiot joilla pelaajien resurssit saadaan näkyviin, alustava Worker Management ikkunan ja painikkeiden luonti.
+
+commit c0d8f53c14f43a27ba11c3ba804b30773686e857
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Tue Nov 19 19:00:21 2019 +0200
+
+    Luotu uusi dialogi tilejen toiminnallisuuksia varten ja sen osa toiminnallisuuksista ja sen yhdistys gameenginen mouseeventtiin main windowin kautta
+
+commit 124d24a551d414befaded0143b3fad4b0bbe0d85
+Merge: a5a89a5 ecaa39f
+Author: Henrik Hameenoja <hameenoj@linux-desktop11.cc.tut.fi>
+Date:   Mon Nov 18 17:13:51 2019 +0200
+
+    Merge korjattu
+
+commit a5a89a53b6a5d410fbd5438fd4fac7d2ca1e235c
+Author: Henrik Hameenoja <hameenoj@linux-desktop11.cc.tut.fi>
+Date:   Mon Nov 18 17:10:25 2019 +0200
+
+    CustomResourceMapin luominen, modifyResource funktioiden luominen GameEventHandleriin ja addPlayeriin alku resurssien lisääminen
+
+commit 77f2a9ba12cf7d0e28c32386279aa739528b2bd9
+Author: Henrik Hameenoja <hameenoj@linux-desktop11.cc.tut.fi>
+Date:   Mon Nov 18 17:08:45 2019 +0200
+
+    CustomResourceMapin luominen, modifyResource funktioiden luominen GameEventHandleriin ja addPlayeriin alku resurssien lisääminen
+
+commit ecaa39f431fe6e8bb0ac44c0bffbf3ea627456dc
+Author: Saku Laitinen <laitin34@linux-desktop10.cc.tut.fi>
+Date:   Mon Nov 18 17:07:27 2019 +0200
+
+    Hiiren klikkaus eventti siirtyy sceneltä mainwindowin kautta gameenginelle ja tarkistaa siellä, kuka omistaa tilen. Tehty startti setuppi eli pelaajien hq:t tulee kentälle
+
+commit 593624410bb7e712f7d7ffee12198574df9e6a3f
+Author: Saku Laitinen <laitin34@linux-desktop10.cc.tut.fi>
+Date:   Mon Nov 18 13:49:25 2019 +0200
+
+    Tehty päivityksiä gameengineen ja gameeventhandleriin.
+
+commit a050aeccb66644b0c1363280d510255438fef2d9
+Merge: 0e410bf 1e4ee58
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Wed Nov 13 16:09:43 2019 +0200
+
+    merge hoidettu
+
+commit 1e4ee584ccaf918f58de014f2cc1ce7324201064
+Author: Henrik Hameenoja <hameenoj@linux-desktop4.cc.tut.fi>
+Date:   Wed Nov 13 16:06:05 2019 +0200
+
+    Uusien CustomGameScene ja CustomMapItem-luokkien luonti
+
+commit 0e410bfa02365319eca48e05c4f16c564f684898
+Author: Saku Laitinen <laitin34@linux-desktop1.cc.tut.fi>
+Date:   Wed Nov 13 16:05:14 2019 +0200
+
+    Luotu pelimoottori hoitamaan vuorojen vaihtamista ja laskentaa. Lisäksi pistetty ui:hin lisää palikoita
+
+commit 265aa6dc22d539a4f6b823026c7300bbe3bd23a5
+Merge: d86531c 88c2f59
+Author: Henrik Hameenoja <hameenoj@linux-desktop5.cc.tut.fi>
+Date:   Wed Nov 13 12:44:10 2019 +0200
+
+    Merge viimeinen testi
+
+commit d86531c5d89e57782b79c82e56b5fee308263249
+Author: Henrik Hameenoja <hameenoj@linux-desktop5.cc.tut.fi>
+Date:   Wed Nov 13 12:41:39 2019 +0200
+
+    Merge...
+
+commit 88c2f59118f663deb7e364b1ebad45e2a5205a30
+Author: Saku Laitinen <laitin34@linux-desktop8.cc.tut.fi>
+Date:   Wed Nov 13 12:38:31 2019 +0200
+
+    Siivottu koodia, koska yhdessä epäonnistuttiin mergessä
+
+commit 64ba93f74cee7c71e5ae9f8e17b03e3f52ff06f4
+Merge: c320ff0 e1a8102
+Author: Henrik Hameenoja <hameenoj@linux-desktop5.cc.tut.fi>
+Date:   Wed Nov 13 12:35:17 2019 +0200
+
+    Korjattu merge mapwindowsissa
+
+commit c320ff00b088538560c1bb5008b49f547e68acab
+Author: Henrik Hameenoja <hameenoj@linux-desktop5.cc.tut.fi>
+Date:   Wed Nov 13 12:32:56 2019 +0200
+
+    Tehty toteutus GetTile-funktioon id-haulla ObjectManageriin
+
+commit e1a8102f7f7336b305ad72b9aab703fdbde872b5
+Author: Saku Laitinen <laitin34@linux-desktop8.cc.tut.fi>
+Date:   Wed Nov 13 12:29:59 2019 +0200
+
+    Dialogia ei voi sulkea ja siinä on testauksen helpottamiseksi asetettu ensimmäisen pelaajan nimi vakiona
+
+commit e494af8e0dcd09c7db4482253bd1e879bc18ad17
+Merge: 5ac6dd5 11fe0f2
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Tue Nov 12 17:04:26 2019 +0200
+
+    Ratkaistu merge
+
+commit 5ac6dd570b129314a7dbeed6cdd73e0963487aa5
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Tue Nov 12 16:59:49 2019 +0200
+
+    Toteutettu ObjectManagerien GetTile()- ja GetTiles()-funktioiden toteutus
+
+commit 11fe0f2e624c6c9718b3a5a2f53ce597753ebaba
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Tue Nov 12 16:39:10 2019 +0200
+
+    Tehty dialogiin muutoksia, mm. tyhjien nimien tarkistus, nimien tyhjentyminen, kun epäonnistutaan nimen laitossa ja niiden tyhjentyminen, kun vähennetään pelajamäärää
+
+commit ddf35ecfd466a1dba266c13316da9367361ea358
+Merge: dd49c7f c436295
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Tue Nov 12 15:34:09 2019 +0200
+
+    Korjataan Merge-konflikti ja harjoitellaan GIT:n käyttöä
+
+commit dd49c7f7c5931e73bcd00a8349098985bbfbce9a
+Author: Henrik Hameenoja <hameenoj@linux-desktop3.cc.tut.fi>
+Date:   Tue Nov 12 15:20:29 2019 +0200
+
+    Luonut ObjectManagerin funktiolle GetTile toteutuksen
+
+commit c436295eb2c73f91f0c3f51f7b29542e4345354d
+Author: Saku Laitinen <laitin34@linux-desktop6.cc.tut.fi>
+Date:   Tue Nov 12 15:14:29 2019 +0200
+
+    Dialogiin muutoksia: pelaajien nimien kysyminen ja niide signalointi mainwindowiin ja sieltä gameeventhandleriin. Siellä tehty player-olioiden luonti ja tallennus
+
+commit 2cb9208ec0fe825b2fff39e1a6d7c9ec2a0c2ed3
+Author: Saku Laitinen <laitin34@linux-desktop14.cc.tut.fi>
+Date:   Thu Nov 7 16:20:27 2019 +0200
+
+    Tehty dialog ikkuna, joka lähettää pelaajien määrän ja korjattu gameeventhandleriä ja objectmanageria. Saatu kartta piirtymään
+
+commit dc2fb2c8c6b463cc2bfc983b5a12ba0b1c981214
+Author: Henrik Hameenoja <hameenoj@linux-desktop14.cc.tut.fi>
+Date:   Thu Nov 7 11:06:11 2019 +0200
+
+    Luotu omat GameEventHandler ja ObjectManager
+
+commit d4a2869537a288393db73bb18e6782fec19bc4c2
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Wed Sep 18 16:39:09 2019 +0300
+
+    Updated submodule
+
+commit c6d9f052ec162bdbd5727cd0a626df3affb5f755
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Wed Sep 18 12:26:56 2019 +0300
+
+    Updated submodule
+
+commit 96f7202a43b1ded03a4b6cca8d30091513c5bec4
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Wed Sep 18 11:32:35 2019 +0300
+
+    Initial commit with Project structure.
+
