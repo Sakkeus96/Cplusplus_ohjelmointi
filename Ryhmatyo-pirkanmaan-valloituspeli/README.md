@@ -1,1 +1,1 @@
-Parityö, jossa tehtiin oma strategia peli. Kurssi tarjosi jonkin verran koodia, jota hyödynnettiin mm. periyttämällä. Kurssin koodia ei ole saatavissa tässä.
+Parityö, jossa tehtiin oma strategiapeli. Kurssi tarjosi jonkin verran koodia, jota hyödynnettiin mm. periyttämällä. Kurssin koodia ei ole saatavissa tässä. Documents kansiossa löytyy versionhallinta loki ja dokumentti, jossa käydään peliä läpi.
