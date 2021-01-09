@@ -1,0 +1,25 @@
+Ohjelman kaynnistyessa loytyy vaikeustason valitsin (level) ja pelin kaynnistys
+nappula (play). Naiden lisaksi loytyy sekunttikello-, huipputulokset- ja tulos-
+taulut. Kaynnistaessa pelin sekunttikello alkaa pyorimaan, mutta kaarme lahtee
+liikkeelle vasta, kun kayttaja valitsee suunnan (A,S,D,W) nappaimilla. Kun peli
+kaynnistyy, play-nappi haviaa ja tilalle tulee pause-nappi ja reset-nappia
+voidaan painaa. Madon paa on tummansininen ja ruoka on vihrea. Ruuan syotya
+mato kasvaa kokoa ja vauhti nopeutuu. Kaarmeen vari on tummin paassa ja vaalein
+hannassa ja vartalo savyttyy naiden valille riippuen kentan ja madon koosta.
+Pause-nappi pysayttaa sekunttikellon ja madon liikkeen ja nama kaynnistyvat, kun
+kayttaja valitsee suunnan. Reset-nappi palaa alkuun ja tallentaa huipputuloksen,
+jos sellainen tehtiin. Vaikeustason kasvattaminen nostaa madon alkunopeutta ja
+vaikuttaa siihen miten nopeasti madon nopeus kasvaa ruokaa syodessa. Eli kun on
+korkea vaikeustaso, niin madon nopeus kasvaa syodessaan vahemman kuin pienella
+vaikeustasolla.
+
+Lisaominaisuudet:
+1. "Mato ei liiku aina samalla nopeudella, vaan liikkuminen nopeutuu pelin
+   edetessa"
+2. "Pelissa on eri vaikeustasoja, joista kayttaja voi valita"
+3. "Tahan mennessa paras tulos tallennetaan ja naytetaan kayttajalle"
+4. "Madon vari vaihtelee esimerkiksi liukuvasti niin, etta paa on savyltaan
+   tummin ja ruumiin eri osissa vari on sita vaaleampi, mita lahempana hantaa
+   ollaan"
+5. "Pelissa on Pause-nappula, jolla pelin voi tauottaa"
+6. "Pelissa on Restart-nappula, jolla pelin voi aloittaa uudelleen"
